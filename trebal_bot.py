@@ -17,7 +17,7 @@ import os
 from telegram.ext import Updater, CommandHandler
 
 # The bot token
-token = "Your token here. You can obtain a token using the @BotFather."
+token = "5915563603:AAE1STI93wsA7MK9pma-MOKXU4Gww5KxwWk"
 # Time when the message will be broadcasted.
 deliver_time = "10:00"
 
